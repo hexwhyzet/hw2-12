@@ -1,0 +1,16 @@
+************* Module main
+main.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+main.py:2:0: W0404: Reimport 'sys' (imported line 1) (reimported)
+main.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+main.py:4:0: C0103: Function name "f" doesn't conform to snake_case naming style (invalid-name)
+main.py:4:6: C0103: Argument name "a" doesn't conform to snake_case naming style (invalid-name)
+main.py:7:4: C0103: Variable name "m" doesn't conform to snake_case naming style (invalid-name)
+main.py:4:6: W0613: Unused argument 'a' (unused-argument)
+main.py:12:4: C0103: Constant name "l" doesn't conform to UPPER_CASE naming style (invalid-name)
+main.py:13:4: C0103: Constant name "b" doesn't conform to UPPER_CASE naming style (invalid-name)
+main.py:14:4: C0103: Constant name "c" doesn't conform to UPPER_CASE naming style (invalid-name)
+main.py:1:0: W0611: Unused import sys (unused-import)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+
